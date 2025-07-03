@@ -21,3 +21,25 @@ Open index.html in a browser.
 
 Allow camera access to start detection.
 
+Reason why this project is Useful:
+Public Safety & Health:
+
+Helps enforce mask-wearing in public spaces like schools, offices, malls, hospitals, etc.
+
+Can be used as part of an entry-check system to ensure compliance with health guidelines.
+
+Educational Value:
+
+Demonstrates real-world use of TensorFlow.js and machine learning in a browser.
+
+Great for showcasing skills in web development + AI/ML, especially for a portfolio or academic project.
+
+No Backend Needed:
+
+Runs entirely in the browser using client-side resources.
+
+Fast to deploy and use without complex server setup.
+
+Customizable:
+
+Can be extended with features like logging, face recognition, or mask type classification.
