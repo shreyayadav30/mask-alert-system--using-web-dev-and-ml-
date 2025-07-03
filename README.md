@@ -19,9 +19,11 @@ Clone or download the project.
 
 Open index.html in a browser.
 
-Allow camera access to start detection.
+Allow camera access to start detection.   
 
-Reason why this project is Useful:
+
+
+---> Reason why this project is Useful:
 Public Safety & Health:
 
 Helps enforce mask-wearing in public spaces like schools, offices, malls, hospitals, etc.
